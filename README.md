@@ -1,14 +1,13 @@
 # TVShows_Tweets_Analysis
 
-**Processing Tweets & Analyzing Sentiments for Business Insights**
-Tweets from TV Shows are analyzed to understand the sentiments. The workflow is as follows: <br>
+**Processing Tweets & Analyzing Sentiments for Business Insights**: Tweets from TV Shows are analyzed to understand the sentiments. The workflow is as follows: <br>
 - Data Extraction: Python library GetOldTweets3
 - Data Storage: MySQL database on Google Cloud
 - Data Processing and Basic Analysis: PySpark SQL and PySpark DataFrame
 - Advanced Analysis: Python libraries like Seaborn, NLTK, TextBlob
 
 The data is restricte to 14,000 records for 2 TV shows over 7 days.  <br>
-Data Processing and Basic Analysis is done using SparkSQL and PySpark DataFrame methods
+Data Processing and Basic Analysis is done using **SparkSQL and PySpark DataFrame** methods
 Following metrics are identified from the analysis: <br>
 Basic Metrics <br>
  - Total Users: 13,018
@@ -23,6 +22,6 @@ Tiger King: 7.7
 Money Heist: 0.7 <br>
 Tiger King: 0.87 <br>
 
-Furthermore we do Advanced Analysis on the sentiments using NLTK and TextBlob library <br>
+Furthermore we do Advanced Analysis on the sentiments using **NLTK and TextBlob** library <br>
 
  
