@@ -22,6 +22,6 @@ Tiger King: 7.7
 Money Heist: 0.7 <br>
 Tiger King: 0.87 <br>
 
-Furthermore we do Advanced Analysis on the sentiments using **NLTK and TextBlob** library <br>
+Furthermore we do Advanced Analysis to identify positive, negative or neutral sentiment for every tweet using **NLTK and TextBlob** library <br>
 
  
